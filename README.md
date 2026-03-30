@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divyum Saini
 
  B.Tech Student 
- Computer Science Engineering (CSE CORE)  
+- Computer Science Engineering (CSE CORE)  
  India  
  **1st Year**
 
